@@ -1,0 +1,41 @@
+{
+  "mainHash": "df43540b346768278325bdfdffa6e0f1b8abde5da3842168a3245e599b24bc70",
+  "data": {
+    "args": {
+      "request_dmitem": "20994",
+      "main": "image.png",
+      "i": true,
+      "proof": [
+        {
+          "p": false,
+          "d": "a1b89397f13c3b5de8f163ed7f4a11d15ae3f6b2136a268ad82d08ad08d77320"
+        },
+        {
+          "p": true,
+          "d": "a59956cb870f66812290c98a3849b7aa3382d13ba90e97f3747f079604f8b13a"
+        },
+        {
+          "p": true,
+          "d": "b2f7dc514469b6971ffaae73d83a92f338cfe38adfce689aa08835199bbe7691"
+        },
+        {
+          "p": false,
+          "d": "9b731e9b8c62c3d205b3994bd72a96e532c2c1deaf63629f8fbd806bed8032f8"
+        },
+        {
+          "p": false,
+          "d": "cd12ebc6017eea7a444437b75aeb9f339d2f791da676746a053bb363dfabe755"
+        },
+        {
+          "p": false,
+          "d": "0c7973faf29a449de5aa5818fc775cacf2102a51192fbfab5b6c980b011fd01a"
+        }
+      ]
+    },
+    "image.png": {
+      "$b": "89504e470d0a1a0a0000000d49484452000000100000001008060000001ff3ff610000016549444154789ca592314b03411085bf0b296340ae49671138aeb7309d659020922ea276c620d6c1462d348de4078826a592742a12424ab1c91509a4f210aeb7b1896902e1ce62bd6537b760e16b7676f7bd99d9b763bd97ba11ff403a0edc5e15a229e90b58d42dfcddae46743b15d2cd88c5256065f14b2d00521acbca8aaccd08b7534988558e94a84f707b5591e07c0a884ee284008b2b218eab271200948eee09765ec566fa2dd6ec0a00f9e74d7a77fb660f001cbb46b01ac1fc491c7865b1ce1f0108bc32a1fdc6c7d7add4e81e28286e5f1be3652412846df1eec1cba93c8be3f84e45c203c7ae913a348f46d8b6b4f661c90315c54641db0fce86465e0ad0fedc243089638d7c82bb5ec11f89e973ec1a5b9f1b52586c14e8e73cd9beca9526faa32e9356fdcf0e26adba14c3920799f10d8ebd27abaae8e73c3127e30760664e90bf99818df885c66ff5831311ac0d09db96e028d0e62038ce686d9bcc5339003fdbaf8b0f2c2a9bfc0000000049454e44ae426082"
+    }
+  },
+  "targetVector": "20994:any:any:image.png:df43540b346768278325bdfdffa6e0f1b8abde5da3842168a3245e599b24bc70",
+  "targethash": "df43540b346768278325bdfdffa6e0f1b8abde5da3842168a3245e599b24bc70"
+}
